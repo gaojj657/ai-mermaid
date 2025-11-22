@@ -1,0 +1,6 @@
+// 配置文件模板
+// 请复制此文件为 config.js 并填写您的阿里云 DashScope API Key
+window.APP_CONFIG = {
+    DASHSCOPE_API_KEY: 'your-api-key-here'
+};
+
